@@ -13,9 +13,9 @@ To run the calculation, please follow the steps below.
 3. **Run all the cells in the chosen sections** and get the results.
 
 ## Sections of Results
-1. The probabilities of unbound, single-domain bound and two-domain bound
-2. The apparent binding affinity of ligand-target interaction
-3. The apparent binding specificity of ligand-target interaction
-4. Site-specific binding
+1. [The probabilities of unbound, single-domain bound and two-domain bound](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/The%20probabilities%20of%20unbound%2C%20single-domain%20bound%20and%20two-domain%20bound.md)
+2. [The apparent binding affinity of ligand-target interaction](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/The%20apparent%20binding%20affinity.md)
+3. [The apparent binding specificity of ligand-target interaction](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/The%20apparent%20binding%20specificity.md)
+4. [Site-specific binding](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/Site%20specific%20binding.md)
 
 
