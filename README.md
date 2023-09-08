@@ -18,4 +18,7 @@ To run the calculation, please follow the steps below.
 3. [The apparent binding specificity of ligand-target interaction](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/The%20apparent%20binding%20specificity.md)
 4. [Site-specific binding](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/Site%20specific%20binding.md)
 
+## Jupyter Notebook Code
+[Jupyter Notebook Code](https://github.com/Yunxin-Deng/Transfer-Matrix-Calculation-For-Multivalent-Interactions/blob/main/Multivalent_interaction_calculation.ipynb)
+
 
